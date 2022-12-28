@@ -4,7 +4,7 @@ Submitted by: **Anthony I Nwafor **
 
 **HelloWorld1** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **23** hours spent in total
+Time spent: **23** day spent in total
 
 ## Required Features
 
