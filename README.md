@@ -1,6 +1,6 @@
 # Android Prework - *HelloWorld1*
 
-Submitted by: **Anthony I Nwafor **
+Submitted by: **Hello World**
 
 **HelloWorld1** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
